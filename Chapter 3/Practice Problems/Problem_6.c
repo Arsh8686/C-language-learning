@@ -24,10 +24,6 @@ int main(){
         max = d;
     }
 
-    else{
-        max = a;
-    }
-
     printf("The greatest of four numbers entered %d", max);
 
     return 0;
