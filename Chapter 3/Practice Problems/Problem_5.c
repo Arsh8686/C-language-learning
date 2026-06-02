@@ -8,7 +8,7 @@ lowercase or not.
 int main(){
     char ch;
 
-    printf("Enter the letter between A to Z: ");
+    printf("Enter an alphabet: ");
     scanf("%c", &ch);
 
     if('z'>=ch && 'a'<=ch){
