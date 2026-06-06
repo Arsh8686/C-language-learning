@@ -19,4 +19,4 @@
 - User input/output
 
 ## Author
-Arsh Khan
+Arsh Ahmed Khan
